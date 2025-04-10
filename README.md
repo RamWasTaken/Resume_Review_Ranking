@@ -1,1 +1,1 @@
-![resume_review_ranking layout](resume_review_website.png)
+![resume_review_ranking layout](public/resume_review_website.png)
